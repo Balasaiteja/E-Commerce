@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "//github.com/Balasaiteja/E-Commerce/static/css/main.7394b478.css",
-    "main.js": "//github.com/Balasaiteja/E-Commerce/static/js/main.94d67a8d.js",
-    "index.html": "//github.com/Balasaiteja/E-Commerce/index.html",
-    "main.7394b478.css.map": "//github.com/Balasaiteja/E-Commerce/static/css/main.7394b478.css.map",
-    "main.94d67a8d.js.map": "//github.com/Balasaiteja/E-Commerce/static/js/main.94d67a8d.js.map"
+    "main.css": "/Balasaiteja/E-Commerce/static/css/main.7394b478.css",
+    "main.js": "/Balasaiteja/E-Commerce/static/js/main.71286ce6.js",
+    "index.html": "/Balasaiteja/E-Commerce/index.html",
+    "main.7394b478.css.map": "/Balasaiteja/E-Commerce/static/css/main.7394b478.css.map",
+    "main.71286ce6.js.map": "/Balasaiteja/E-Commerce/static/js/main.71286ce6.js.map"
   },
   "entrypoints": [
     "static/css/main.7394b478.css",
-    "static/js/main.94d67a8d.js"
+    "static/js/main.71286ce6.js"
   ]
 }
