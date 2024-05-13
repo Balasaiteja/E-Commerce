@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Balasaiteja/E-Commerce.git/static/css/main.7394b478.css",
-    "main.js": "/Balasaiteja/E-Commerce.git/static/js/main.71286ce6.js",
-    "index.html": "/Balasaiteja/E-Commerce.git/index.html",
-    "main.7394b478.css.map": "/Balasaiteja/E-Commerce.git/static/css/main.7394b478.css.map",
-    "main.71286ce6.js.map": "/Balasaiteja/E-Commerce.git/static/js/main.71286ce6.js.map"
+    "main.css": "/E-Commerce.git/static/css/main.7394b478.css",
+    "main.js": "/E-Commerce.git/static/js/main.71286ce6.js",
+    "index.html": "/E-Commerce.git/index.html",
+    "main.7394b478.css.map": "/E-Commerce.git/static/css/main.7394b478.css.map",
+    "main.71286ce6.js.map": "/E-Commerce.git/static/js/main.71286ce6.js.map"
   },
   "entrypoints": [
     "static/css/main.7394b478.css",
