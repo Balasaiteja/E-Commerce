@@ -13,7 +13,7 @@ const ProData = () => {
                 firstFiveImages.map((item)=>{
                     return(
                         <div className='imgBox'>
-                         <img className='proImage' src={item.image} alt="" />
+                         <img className='proImage' src={`${process.env.PUBLIC_URL}/${item.image}`} alt="" />
                         </div>  
                     )
                     

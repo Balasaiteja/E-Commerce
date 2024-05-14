@@ -15,7 +15,7 @@ const Watches = () => {
               return(
                 <Link to={`/Watches/${item.id}`}>
                 <div className='imgBox'>
-               <img className='proImage' src={item.image} alt="" />
+               <img className='proImage' src={`${process.env.PUBLIC_URL}/${item.image}`} alt="" />
               </div>    
               </Link>
               )

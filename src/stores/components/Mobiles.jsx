@@ -17,7 +17,7 @@ const firstFiveImages = mobileData.slice(0,5)
             return(
               <Link to={`/Mobiles/${item.id}`}>
               <div className='imgBox'>
-                    <img className='proImage' src={item.image} alt="" />
+                    <img className='proImage' src={`${process.env.PUBLIC_URL}/${item.image}`} alt="" />
                 </div>
               </Link>
                 

@@ -18,7 +18,7 @@ const TvSingle = () => {
     <Navbar></Navbar>
     <div className='ind-section'>
        <div className='ind-image'>
-        <img src={product.image} alt="" />
+        <img src={`${process.env.PUBLIC_URL}/${product.image}`} alt="" />
        </div>
        <div className="ind-details space">
         <div className="ind-company space">
